@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings\\ProseSample.Substrings.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings.Semantics\\ProseSample.Substrings.Semantics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings.Semantics\\ProseSample.Substrings.Semantics.csproj",
+        "projectName": "ProseSample.Substrings.Semantics",
+        "projectPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings.Semantics\\ProseSample.Substrings.Semantics.csproj",
+        "packagesPath": "C:\\Users\\rmisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings.Semantics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.ProgramSynthesis.Common": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings\\ProseSample.Substrings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings\\ProseSample.Substrings.csproj",
+        "projectName": "ProseSample.Substrings",
+        "projectPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings\\ProseSample.Substrings.csproj",
+        "packagesPath": "C:\\Users\\rmisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings.Semantics\\ProseSample.Substrings.Semantics.csproj": {
+                "projectPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\ProgramSynthesis\\ProseSample.Substrings.Semantics\\ProseSample.Substrings.Semantics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.ProgramSynthesis.Common": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "Microsoft.ProgramSynthesis.DslcTargets": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "generator-prose": {
+    "promptValues": {
+      "semantics": "Semantics",
+      "learning": "Learning",
+      "domainLearningLogic": "Learners",
+      "scoreFeature": "Score",
+      "scoreHolder": "RankingScore",
+      "buildGrammar": true
+    }
+  }
+}

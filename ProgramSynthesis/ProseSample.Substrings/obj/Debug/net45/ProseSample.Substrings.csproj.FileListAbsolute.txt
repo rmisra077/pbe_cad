@@ -1,0 +1,14 @@
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\ProseSample.Substrings.dll
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\ProseSample.Substrings.pdb
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\Microsoft.ProgramSynthesis.Common.dll
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\System.Collections.Immutable.dll
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\ProseSample.Substrings.Semantics.dll
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\bin\Debug\net45\ProseSample.Substrings.Semantics.pdb
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.csprojAssemblyReference.cache
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.csproj.CoreCompileInputs.cache
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.AssemblyInfoInputs.cache
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.AssemblyInfo.cs
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.csproj.CopyComplete
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.dll
+C:\Users\rmisr\Desktop\prose-master\prose-master\ProgramSynthesis\ProseSample.Substrings\obj\Debug\net45\ProseSample.Substrings.pdb

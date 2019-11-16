@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial.Tests\\ProseTutorial.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial.Tests\\ProseTutorial.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial.Tests\\ProseTutorial.Tests.csproj",
+        "projectName": "ProseTutorial.Tests",
+        "projectPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial.Tests\\ProseTutorial.Tests.csproj",
+        "packagesPath": "C:\\Users\\rmisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial\\ProseTutorial.csproj": {
+                "projectPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial\\ProseTutorial.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.ProgramSynthesis": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "Microsoft.ProgramSynthesis.Compiler": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial\\ProseTutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial\\ProseTutorial.csproj",
+        "projectName": "ProseTutorial",
+        "projectPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial\\ProseTutorial.csproj",
+        "packagesPath": "C:\\Users\\rmisr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmisr\\Desktop\\prose-master\\prose-master\\DslAuthoringTutorial\\part2b-complete\\ProseTutorial\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.ProgramSynthesis": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "Microsoft.ProgramSynthesis.Compiler": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
